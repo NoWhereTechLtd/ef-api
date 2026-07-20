@@ -1,4 +1,7 @@
 {
+    "version" = 1,
+    
+    "vehicleTypes" = {
     "Audi": [
       "A3",
       "Q3",
@@ -148,4 +151,4 @@
     "Volkswagen": [
       "Golf",
     ],
-  }
+  }}
