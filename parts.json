@@ -1,4 +1,6 @@
-[
+{
+    "version" = 1,
+    "parts" = [
     'ABS Sensor',
     'AC Compressor',
     'AC Condenser',
@@ -142,4 +144,4 @@
     'Windshield Wipers',
     'Wiper Blades',
     'Wiper Motor',
-  ]
+  ]}
