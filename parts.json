@@ -1,6 +1,6 @@
 {
-    "version" = 1,
-    "parts" = [
+    "version" : 1,
+    "parts" : [
     'ABS Sensor',
     'AC Compressor',
     'AC Condenser',
