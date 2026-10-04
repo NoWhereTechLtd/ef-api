@@ -6,18 +6,18 @@
       "A3",
       "Q3",
       "Q5",
-      "Q7 30t",
+      "Q7 30t"
     ],
     "Benz": [
-      "E250",
+      "E250"
     ],
     "BMW": [
       "X5",
-      "3 Series",
+      "3 Series"
     ],
     "Chevrolet": [
       "Silverado",
-      "Tracker",
+      "Tracker"
     ],
     "Ford": [
       "F-150",
@@ -26,7 +26,7 @@
       "Focus",
       "Ranger",
       "Ranger Limited",
-      "XLT",
+      "XLT"
     ],
     "Honda": [
       "Agent",
@@ -38,7 +38,7 @@
       "H100",
       "Ionic",
       "Vezel",
-      "Vesel RS",
+      "Vesel RS"
     ],
     "Hyundai": [
       "Creta",
@@ -46,13 +46,13 @@
       "Elantra GLS",
       "Tucson",
       "Tucson CRDI",
-      "1.6T",
+      "1.6T"
     ],
     "Isuzu": [
-      "D-Max",
+      "D-Max"
     ],
     "Jeep": [
-      "Wrangler",
+      "Wrangler"
     ],
     "Kia": [
       "Cerato",
@@ -63,11 +63,11 @@
       "Sorento",
       "Soul",
       "Sportage",
-      "Stinger",
+      "Stinger"
     ],
     "Mazda": [
       "CX-3",
-      "CX-5",
+      "CX-5"
     ],
     "Mitsubishi": [
       "ASX",
@@ -78,7 +78,7 @@
       "Mirage",
       "Montero",
       "Outlander",
-      "Outlander Sport",
+      "Outlander Sport"
     ],
     "Nissan": [
       "AD",
@@ -114,20 +114,20 @@
       "Tiida Latio",
       "Versa",
       "Wingroad",
-      "X-Trail",
+      "X-Trail"
     ],
     "Peugeot": [
-      "3008",
+      "3008"
     ],
     "Subaru": [
       "Forester",
-      "XV",
+      "XV"
     ],
     "Suzuki": [
       "Grand Vitara",
       "SX4",
       "Swift",
-      "Vitara",
+      "Vitara"
     ],
     "Toyota": [
       "Aqua",
@@ -144,11 +144,11 @@
       "Land Cruiser",
       "Prius",
       "RAV4",
-      "Vitz"
-          "Yaris",
-      "Yaris Cross",
+      "Vitz",
+      "Yaris",
+      "Yaris Cross"
     ],
     "Volkswagen": [
-      "Golf",
+      "Golf"
     ]
   }}
